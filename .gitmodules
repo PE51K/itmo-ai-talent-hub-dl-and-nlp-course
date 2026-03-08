@@ -1,0 +1,3 @@
+[submodule "course/itmo_dl_nlp_course"]
+	path = course/itmo_dl_nlp_course
+	url = https://github.com/pacifikus/itmo_dl_nlp_course
