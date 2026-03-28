@@ -41,6 +41,7 @@ hw_3 = [
     "datasets>=2.16.0",
     "evaluate>=0.4.0",
     "ipykernel>=7.2.0",
+    "notebook>=7.5.5",
     "matplotlib>=3.10.8",
     "numpy>=2.4.2",
     "pandas>=3.0.1",
