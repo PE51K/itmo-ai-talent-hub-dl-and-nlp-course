@@ -45,15 +45,12 @@ hw_3 = [
     "matplotlib>=3.10.8",
     "numpy>=2.4.2",
     "pandas>=3.0.1",
-    "scikit-learn>=1.8.0",
     "seaborn>=0.13.2",
-    "protobuf>=3.20.0",
     "sentencepiece>=0.1.99",
     "seqeval>=1.2.2",
     "torch>=2.0.0",
     "tqdm>=4.67.3",
     "transformers>=4.36.0",
-    "tiktoken>=0.12.0",
 ]
 hw_4 = [
     "bertopic>=0.16.0",
